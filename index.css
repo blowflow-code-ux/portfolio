@@ -906,7 +906,7 @@ font-weight: 600;
 
 
 .city {
-  background: url("7_CityinTransition/cityintransition_1.png") center /
+  background: url("./images/7_CityinTransition/cityintransition_1.png") center /
     cover no-repeat;
   padding-top: calc(960 / 1286 * 100%);
   margin-top: -30%;
