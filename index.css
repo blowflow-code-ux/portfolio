@@ -929,7 +929,7 @@ font-weight: 600;
 }
 
 .city_gif {
-  background: url("7_CityinTransition/KakaoTalk_Photo_2024-06-11-02-53-18.gif")
+  background: url("./images/7_CityinTransition/KakaoTalk_Photo_2024-06-11-02-53-18.gif")
     center / cover no-repeat;
   padding-top: calc(987 / 1835 * 100%);
   height: 0;
