@@ -41,10 +41,10 @@ a {
   flex-direction: column;
   justify-content: space-between;
 }
-
+/* 
 .page {
   height: 100vh;
-}
+} */
 
 .bg {
   z-index: -1;
