@@ -937,6 +937,11 @@ font-weight: 600;
   position: relative;
 }
 
+
+.city_gif_container{
+  position:relative;
+}
+
 .toCityInTransitionWeb{
   width:10vw;
   height:5vh;
